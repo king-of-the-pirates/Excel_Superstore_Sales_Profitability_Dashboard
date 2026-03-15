@@ -23,4 +23,10 @@ This project analyzes sales and profitability using Excel.
 - Profitability analysis
 - Category level performance
 
-
+## Project Structure
+Excel_Superstore_Sales_Profitability_Analysis
+| - 
+| - ___Data
+| - ___Screenshots
+| - ___Superstore_Excel_Sales_Profitability_Dashboard
+| - ___readme.md
